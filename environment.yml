@@ -18,3 +18,5 @@ dependencies:
     - numpy
     - scipy
     - sklearn
+    - joblib
+    - threadpoolct
